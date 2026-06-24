@@ -67,16 +67,10 @@ Former **French preparatory class (CPGE)** student, with an exchange semester at
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🔥 **network-security-lab** | Infrastructure réseau sécurisée : pfSense + SIEM Wazuh | pfSense, Wazuh, VMware |
-| 🛡️ **security-labs** | Labs offensifs &amp; défensifs : MITM, PKI, VPN, OWASP | Kali, OpenSSL, OpenVPN |
-| 🌐 **pokequiz** | Application web full-stack (projet international APU) | HTML, CSS, JS, PHP, SQL |
-| ⚙️ **c-algorithms** | Algorithmique en C : Floyd-Warshall, structures de données | C |
+| 🔥 **[network-security-lab](https://github.com/MazienAdr/network-security-lab)** | Infrastructure réseau sécurisée : pfSense + filtrage + hardening | pfSense, VMware |
+| 🛡️ **[cybersecurity-labs](https://github.com/MazienAdr/cybersecurity-labs)** | Labs offensifs &amp; défensifs : MITM, PKI, VPN, audit OWASP | Kali, OpenSSL, OpenVPN |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MazienAdr&show_icons=true&hide_border=true&title_color=2D2D2D&icon_color=2D2D2D&text_color=555555&bg_color=FFFFFF" alt="GitHub Stats" height="150">
-</p>
 
 <p align="center">
   <i>« Plus les systèmes sont connectés, plus leur sécurité devient critique. »</i>
