@@ -74,4 +74,10 @@ Former **French preparatory class (CPGE)** student, with an exchange semester at
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MazienAdr&show_icons=true&hide_border=true&title_color=2D2D2D&icon_color=2D2D2D&text_color=555555&bg_color=FFFFFF" alt="GitHub Stats" height="150">
+</p>
 
+<p align="center">
+  <i>« Plus les systèmes sont connectés, plus leur sécurité devient critique. »</i>
+</p>
